@@ -11,7 +11,7 @@ namespace WebApplication9.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page 1 GIt UI " ;
-            string feauture="New feautr";
+            string feauture="New feautr1";
 
 
 
