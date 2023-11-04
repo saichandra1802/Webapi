@@ -10,6 +10,7 @@ namespace WebApplication9.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "Image Upload";
             ViewBag.Title = "HOME api 1 GIT UI ";
             ViewBag.Title = "HOME PAGE 1 GIT UI ";
             ViewBag.Title = "Home Page 1 GIt UI ";
