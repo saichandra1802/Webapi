@@ -10,6 +10,8 @@ namespace WebApplication9.Controllers
     {
         public ActionResult Index()
         {
+
+               ViewBag.Title = "BB ;
             ViewBag.Title = "Home Page 1 GIt UI " ;
             string feauture="New feautr1";
 
