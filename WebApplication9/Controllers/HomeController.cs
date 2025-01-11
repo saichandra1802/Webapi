@@ -9,7 +9,8 @@ namespace WebApplication9.Controllers
     public class HomeController : Controller
     {
         public ActionResult Index()
-        {
+        { 
+            ViewBag.Title = "123 code changes";
             ViewBag.Title = "1134";
             ViewBag.Title = "sd";
             ViewBag.Title = "signup Task";
