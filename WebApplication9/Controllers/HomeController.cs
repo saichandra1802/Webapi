@@ -10,7 +10,6 @@ namespace WebApplication9.Controllers
     {
         public ActionResult Index()
         {
-
             ViewBag.Task = "1145";
             ViewBag.Title = "123 code changes";
             ViewBag.Title = "1134";
